@@ -1,0 +1,19 @@
+{
+  "name": "playlistlinks-deezer",
+  "version": "1.0.0",
+  "description": "convert a deezer playlist to a list of links to use it in smloadr",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaenaime/playlistlinks-deezer.git"
+  },
+  "author": "ENAIME HAMZA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaenaime/playlistlinks-deezer/issues"
+  },
+  "homepage": "https://github.com/hamzaenaime/playlistlinks-deezer#readme"
+}
